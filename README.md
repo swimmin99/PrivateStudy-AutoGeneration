@@ -30,7 +30,7 @@
 |---|---------|---------|----|-----|
 |2023-01-21|1|BuildingGeneration| [Module base Random Building Generation](https://www.youtube.com/watch?v=EWnLKpkJzVQ)|
 |2022-01-28|2|PerlinNoise|[Article1](https://www.scratchapixel.com/lessons/procedural-generation-virtual-worlds/procedural-patterns-noise-part-1/introduction.html) <br> [Article2](https://www.scratchapixel.com/lessons/procedural-generation-virtual-worlds/perlin-noise-part-2/perlin-noise.html)||
-|2022-01-29|3|PlayerController|[Perlin Noise based Procedural City](https://www.youtube.com/watch?v=LHBR1Jfoh74&t=131s)||
+|2022-01-29|3|PlayerController|[Matt MirrorFish's Procedural City](https://www.youtube.com/watch?v=LHBR1Jfoh74&t=131s)|[BuildingClusterGenerator](https://github.com/swimmin99/PrivateStudy-AutoGeneration/blob/main/BuildingGeneratorNoiseInput.cs)<br>[GridSpawner](https://github.com/swimmin99/PrivateStudy-AutoGeneration/blob/main/GridSpawner.cs)|
 
   
   <br>
